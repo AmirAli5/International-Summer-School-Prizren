@@ -1,4 +1,4 @@
-# International-Summer-School-Prizren (31 July - 11 August 2023)
+# International Summer School (31 July - 11 August 2023)
 ## University of Prizren, Prizren, Kosovo
 ### Course: Data Mining for Business Intelligence
 I attended the International Summer School in Prizren, hosted by the University of Prizren in Kosovo, where I had the unique opportunity to participate in the course, "Data Mining for Business Intelligence." This program was made even more exceptional because it was fully funded by the Kosovo Government. The course itself was the heart of my experience, and it expanded my knowledge and sharpened my skills in data analysis and interpretation. I learned how to extract valuable insights from large datasets and apply them to strategic decision-making in the business world. Through practical applications and real-world case studies, I gained a profound understanding of how data mining plays a pivotal role in modern business analytics, equipping me with the tools necessary to excel in the data-driven landscape of today's business environment. <br>
