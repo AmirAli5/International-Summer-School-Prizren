@@ -1,3 +1,3 @@
 # International-Summer-School-Prizren
 ## University of Prizren, Prizren, Kosovo
-### Data Mining for Business Intelligence
+### Course: Data Mining for Business Intelligence
